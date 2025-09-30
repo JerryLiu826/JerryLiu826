@@ -1,5 +1,5 @@
 ## Hello, I'm Jerry Liu 👋
-I'm currently a student studying MSc Statistics in Imperial College London.
+I'm currently a student studying 【MSc Statistics in Imperial College London](https://www.imperial.ac.uk/study/courses/postgraduate-taught/statistics/).
 I graduated at Queen Mary with BSc Mathematics and Statistics in 2025. I did a third year project using Monte Carlo simulations about Self-Avoiding Walks(SAWs) supervised by Prof. Thomas. I independently learned and used Julia to do this project.
 
 
