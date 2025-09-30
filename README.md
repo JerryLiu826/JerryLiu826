@@ -11,4 +11,4 @@ I graduated at Queen Mary with BSc Mathematics and Statistics in 2025. I did a t
 
 Reach me at: [Educational Email](zechen.liu@imperial.ac.uk), [Personal Email](liu-zechen@foxmail.com), [LinkedIn](https://www.linkedin.com/in/zechen-liu-137186298/)
 ------
-last updated: 2024-09-31
+last updated: 2025-09-31
