@@ -9,10 +9,7 @@ I graduated at Queen Mary 2025 with BSc Mathematics and Statistics. I did a thir
 **Skills**
 - Programming: Python, C++, Julia, R
 
-**Reach me at**
-- Educational Email: zechen.liu@imperial.ac.uk
-- Personal Email: liu-zechen@foxmail.com
-- LinkedIn: https://www.linkedin.com/in/zechen-liu-137186298/
+Reach me at: [Educational Email](zechen.liu@imperial.ac.uk), [Personal Email](liu-zechen@foxmail.com), [LinkedIn](https://www.linkedin.com/in/zechen-liu-137186298/)
 <!--
 **JerryLiu826/JerryLiu826** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
